@@ -1,4 +1,4 @@
-# 📅 Events API
+#  Events API
 
 A simple RESTful API built with **Node.js**, **Express**, and **MongoDB** that allows users to create, view, update, and delete events.
 
